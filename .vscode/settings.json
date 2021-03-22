@@ -1,0 +1,5 @@
+{
+    "jupyter.jupyterServerType": "local",
+    "jupyter.allowUnauthorizedRemoteConnection": true,
+    "python.pythonPath": "/opt/miniconda/bin/python"
+}
